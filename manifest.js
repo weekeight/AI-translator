@@ -18,6 +18,12 @@ const manifest = {
         48: '48x48.png',
         128: '128x128.png'
     },
+    content_scripts: [
+        {
+            matches: ['*://*/*'],
+            js: ['src/pages/content/index.js']
+        }
+    ],
 }
 
 export default manifest;

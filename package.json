@@ -4,7 +4,7 @@
   "description": "AI Translator is an intelligent translation tool based on AI technology, support custom for specific domain.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "vitest"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/weekeight/AI-translator/issues"
   },
-  "homepage": "https://github.com/weekeight/AI-translator#readme"
+  "homepage": "https://github.com/weekeight/AI-translator#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }

@@ -1,0 +1,23 @@
+{
+  "name": "ai-translator",
+  "version": "1.0.0",
+  "description": "AI Translator is an intelligent translation tool based on AI technology, support custom for specific domain.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weekeight/AI-translator.git"
+  },
+  "keywords": [
+    "AI",
+    "translation"
+  ],
+  "author": "weekeight",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weekeight/AI-translator/issues"
+  },
+  "homepage": "https://github.com/weekeight/AI-translator#readme"
+}
